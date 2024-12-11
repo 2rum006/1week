@@ -12,7 +12,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from 1week import CarParkTool
+from week import CarParkTool
 
 __CHANNEL_USERNAME__ = "1week"
 __GROUP_USERNAME__   = "1week"
